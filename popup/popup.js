@@ -8,6 +8,8 @@ const ERRORS = {
   NOT_LOGGED_IN: 'NotebookLM에 로그인이 필요해요. NotebookLM을 열어 로그인한 뒤 다시 눌러 주세요.',
   NO_CONTENT: '이 페이지에서 본문을 찾지 못했어요. 글 본문이 보이는 화면에서 다시 시도해 주세요.',
   UNSUPPORTED_PAGE: '지원하는 사이트가 아니에요. 네이버 블로그·카페·포스트, 브런치, 티스토리, velog에서 써 주세요.',
+  NETWORK: 'NotebookLM에 연결하지 못했어요. NotebookLM을 열어 로그인돼 있는지 확인한 뒤 ↻ 버튼을 눌러 주세요.',
+  TIMEOUT: 'NotebookLM 응답이 너무 늦어요. 잠시 후 ↻ 버튼으로 다시 시도해 주세요.',
 };
 
 function send(msg) {
