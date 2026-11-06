@@ -4,6 +4,7 @@
 <g transform="translate(256 256) scale(0.92) translate(-224 -280)">
 <path d="M196 332 L196 176 a60 60 0 0 1 120 0 L316 352 a92 92 0 0 1 -184 0 L132 200" fill="none" stroke="#ffffff" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<circle cx="400" cy="400" r="58" fill="#111827"/>
-<path d="M400 372v56M372 400h56" stroke="#fff" stroke-width="15" stroke-linecap="round"/>
+<circle cx="350" cy="366" r="70" fill="#c81e1e"/>
+<circle cx="350" cy="366" r="56" fill="#111827"/>
+<path d="M350 340v52M324 366h52" stroke="#fff" stroke-width="15" stroke-linecap="round"/>
 </svg>
