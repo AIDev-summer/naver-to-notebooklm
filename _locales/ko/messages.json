@@ -1,4 +1,8 @@
 {
-  "extName": { "message": "한글 소스 to NotebookLM — 네이버 블로그·카페·브런치·티스토리 가져오기" },
-  "extDescription": { "message": "네이버 블로그·카페·포스트, 브런치, 티스토리, velog 글을 버튼 하나로 NotebookLM 소스에 추가해요. 프레임 안에 숨은 본문도 깔끔한 텍스트로 가져와요." }
+  "extName": {
+    "message": "한글 소스 클리퍼 for NotebookLM"
+  },
+  "extDescription": {
+    "message": "네이버 블로그·카페·포스트, 브런치, 티스토리, velog 글을 클릭 한 번으로 NotebookLM 노트북 소스에 추가합니다."
+  }
 }

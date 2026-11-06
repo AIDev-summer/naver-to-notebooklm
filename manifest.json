@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "__MSG_extName__",
-  "short_name": "한글 소스 to NotebookLM",
+  "short_name": "한글 소스 클리퍼",
   "version": "0.1.0",
   "description": "__MSG_extDescription__",
   "default_locale": "ko",

@@ -1,4 +1,4 @@
-# 한글 소스 to NotebookLM
+# 한글 소스 클리퍼 for NotebookLM
 
 네이버 블로그·카페·포스트, 브런치, 티스토리, velog 글을 한 번의 클릭으로 NotebookLM 노트북 소스로 추가하는 크롬 확장 프로그램입니다.
 

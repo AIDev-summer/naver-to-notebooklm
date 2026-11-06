@@ -1,4 +1,8 @@
 {
-  "extName": { "message": "Korean Sites to NotebookLM — Naver Blog, Cafe, Brunch, Tistory importer" },
-  "extDescription": { "message": "Add Naver Blog / Cafe / Post, Brunch, Tistory and velog articles to NotebookLM as clean text sources in one click, including content hidden inside iframes." }
+  "extName": {
+    "message": "Korean Web Clipper for NotebookLM"
+  },
+  "extDescription": {
+    "message": "Add Naver Blog/Cafe/Post, Brunch, Tistory and velog articles to a NotebookLM notebook in one click."
+  }
 }
