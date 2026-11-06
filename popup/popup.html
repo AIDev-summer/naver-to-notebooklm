@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <title>한글 소스 to NotebookLM</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <header>
+    <img src="../icons/icon32.png" alt="" width="20" height="20">
+    <span>NotebookLM에 추가</span>
+  </header>
+
+  <section id="page" class="card">
+    <div id="page-status" class="muted">페이지를 읽는 중…</div>
+    <div id="page-info" hidden>
+      <div id="page-title" class="title"></div>
+      <div id="page-meta" class="muted"></div>
+    </div>
+  </section>
+
+  <section class="card">
+    <label for="notebook">노트북</label>
+    <div class="row">
+      <select id="notebook" disabled>
+        <option>불러오는 중…</option>
+      </select>
+      <button id="refresh" class="icon" title="새로고침">↻</button>
+    </div>
+    <div id="new-notebook" class="row" hidden>
+      <input id="new-name" type="text" placeholder="새 노트북 이름" maxlength="80">
+      <button id="create">만들기</button>
+    </div>
+  </section>
+
+  <button id="add" class="primary" disabled>소스로 추가</button>
+  <div id="result" class="muted"></div>
+
+  <footer>
+    <a id="open-nlm" href="https://notebooklm.google.com" target="_blank" rel="noopener">NotebookLM 열기</a>
+    <span id="stats" class="muted"></span>
+  </footer>
+
+  <script src="popup.js"></script>
+</body>
+</html>
